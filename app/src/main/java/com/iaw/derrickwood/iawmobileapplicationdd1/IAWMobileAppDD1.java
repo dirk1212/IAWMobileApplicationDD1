@@ -49,4 +49,5 @@ public class IAWMobileAppDD1 extends AppCompatActivity {
         // Switch to the Word Collection Activity
         startActivity(syncIntent);
     }
+    
 }
